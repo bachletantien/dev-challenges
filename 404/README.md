@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://http://404-bachletantien.surge.sh/">
+    <a href="https://404-bachletantien.surge.sh/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/solutions/A6z0mt7K7rtsC7isifGA">
       Solution
     </a>
     <span> | </span>
@@ -36,24 +36,18 @@
 
 ## Overview
 
-![screenshot](./screenshot404.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![screenshot](./assets/screenshot.png)
 
 ### Built With
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [SASS](https://sass-lang.com/)
 
 ## Features
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+- [x] I can see a page following the given design
 
 ## Contact
 
